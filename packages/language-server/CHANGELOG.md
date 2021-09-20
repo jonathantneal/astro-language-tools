@@ -1,5 +1,11 @@
 # @astrojs/language-server
 
+## 0.7.14
+
+### Patch Changes
+
+- e0facf6: Adds an AstroCheck export, to allow running diagnostics programmatically
+
 ## 0.7.13
 
 ### Patch Changes
